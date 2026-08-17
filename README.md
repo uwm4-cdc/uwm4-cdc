@@ -6,9 +6,8 @@ Dynamic data science leader with extensive experience at the CDC, specializing i
 
 ### 🔭 Currently
 
-- Data Science Lead, Informatics and Data Management Office — CDC, Division of HIV Prevention
+- Data Science and Data Management Team Lead, Office of Informatics and Data Management — CDC, Division of HIV Prevention
 - Leading a Data Management and Data Science Team building scalable analytics infrastructure
-- Deploying an internal AI chatbot using LLMs and Retrieval-Augmented Generation (RAG)
 
 ### 🌱 Background
 
